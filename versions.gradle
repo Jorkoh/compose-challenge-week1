@@ -1,0 +1,20 @@
+ext.versions = [
+        kotlin               : '1.4.30',
+        build_tools          : '7.0.0-alpha08',
+        min_sdk              : 23,
+        compile_sdk          : 30,
+        version_code         : 1,
+        version_name         : '1.0.0',
+
+        compose              : '1.0.0-beta01',
+        compose_navigation   : '1.0.0-alpha08',
+        accompanist          : '0.6.0',
+        timber               : '4.7.1',
+        retrofit             : '2.9.0',
+        moshi                : '1.11.0',
+        hilt                 : '2.32-alpha',
+        hilt_navigation      : '1.0.0-alpha03',
+        room                 : '2.3.0-beta02',
+        coroutines           : '1.4.2',
+        kotlinx_serialization: '1.1.0-RC'
+]
